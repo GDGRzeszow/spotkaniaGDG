@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript" src="jquery.min.js"></script>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td class="top">
+					<div class="inner"><img src="./gdg-logo.png" class="gdg-logo"><img src="./io.png" class="io-logo"></div>
+				</td>
+			</tr>
+			<tr>
+				<td class="video">
+					<div class="videoWrapper">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/862r3XS2YB0?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1&cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+						
+					<!-- for offline video
+					<video controls autoplay>
+					  <source src="projectsoli.mp4" type="video/mp4">
+					  Your browser does not support the video tag.
+					  -->
+					</video>
+						
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="footer">
+					<div class="inner">
+						<img src="sponsors/concise.png">
+						<img src="sponsors/asseco.png">
+						<img src="sponsors/rzeszow.jpg">
+						<img src="sponsors/tvp3.jpg">
+						<img src="sponsors/antyweb.png">
+						<img src="sponsors/hattu.png">
+						<img src="sponsors/iwentarium.png">
+					</div>
+				</td>
+			</tr>
+		</table>
+		<script>
+			$(function () {
+				$('iframe').each(function () {
+					$(this).height($(window).innerHeight() - $('table .top').height() - $('table .footer').height());
+					$('.top .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					$('.footer .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					$(this).width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+				});
+				$('video').each(function () {
+					$(this).height($(window).innerHeight() - $('table .top').height() - $('table .footer').height());
+					$('.top .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					$('.footer .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					$(this).width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+				});
+
+				$(window).resize(function () {
+					$('iframe').each(function () {
+						$(this).height($(window).innerHeight() - $('table .top').height() - $('table .footer').height());
+						$('.top .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+						$('.footer .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+						$(this).width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					});
+					$('video').each(function () {
+						$(this).height($(window).innerHeight() - $('table .top').height() - $('table .footer').height());
+						$('.top .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+						$('.footer .inner').width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+						$(this).width(($(window).innerHeight() - $('table .top').height() - $('table .footer').height()) * 1.77);
+					});
+				});
+
+			})
+		</script>
+	</body>
+</html>
