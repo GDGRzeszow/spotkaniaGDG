@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>storage demo</title>
+  </head>
+  <body>
+    <progress value="0" max="100" class="upload"></progress>
+    <input type="file" value="upload" class="upload">
+
+    <img class="upload" src=""></img>
+
+    <script src="https://www.gstatic.com/firebasejs/3.3.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "YOUR_KEY",
+        authDomain: "YOUR_DOMAIN",
+        databaseURL: "https://your-project.firebaseio.com",
+        storageBucket: "your-project.appspot.com",
+      };
+      firebase.initializeApp(config);
+    </script>
+
+    <script src="app.js"></script>
+  </body>
+</html>
