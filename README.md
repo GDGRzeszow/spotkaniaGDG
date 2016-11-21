@@ -5,3 +5,4 @@
 3. "GDG Summit i Google IO - rola GDG Rzeszów w budowaniu społeczności GDG" by Przemysław Pardel
 4. GDG Rzeszów #4 - Firebase Day
 5. GDG Rzeszów #5 - Android Auto
+6. GDG Rzeszó #6 - UX/UI, Krystian Miąsik oraz Marcin Kryszpin
