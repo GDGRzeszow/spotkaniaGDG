@@ -14,9 +14,11 @@
     * "UI in VR" - Marcin Kryszpin
     * "Rola Google Material Design w projektowaniu użyteczności" - Krystian Miąsik
 * GDG Rzeszów #8 - Happy New Android Year
-	* "Podsumowanie I roku działalności GDG Rzeszów" - Justyna Kot 
+	* "Podsumowanie I roku działalności GDG Rzeszów" - Justyna Kot
     * "Scrum w praktyce" - Beata Sternik
     * "Good apps, great apps, excellent apps" - Mateusz Herych
 * GDG Rzeszów #9 - Machine Learning
 	* "Detecting near-duplicate text messages using LSH and other techniques" - Hubert Bryłkowski
 	* "Intro to Image Classification with TensorFlow" - Sashko Zakharchuk
+* Planet Scrum
+  * #1 - "Dlaczego Scrum?" - Beata Sternik
