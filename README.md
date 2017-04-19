@@ -20,5 +20,8 @@
 * GDG Rzeszów #9 - Machine Learning
 	* "Detecting near-duplicate text messages using LSH and other techniques" - Hubert Bryłkowski
 	* "Intro to Image Classification with TensorFlow" - Sashko Zakharchuk
+* GDG Rzeszów #10 - Machine Learning 2
+	* "Basics of Information Theory" - Sashko Zakharchuk
 * Planet Scrum
   * #1 - "Dlaczego Scrum?" - Beata Sternik
+  * #2 - "Co to są Artefakty i po co nam Definition of Done?" - Aleksander Dębski 
