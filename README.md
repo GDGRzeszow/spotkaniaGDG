@@ -1,4 +1,4 @@
-#Prezentacje ze spotkań GDG Rzeszów
+# Prezentacje ze spotkań GDG Rzeszów
 
 * GDG
 	* "Łagodne wprowadzenie do Angular2" by Jakub Nietrzeba
