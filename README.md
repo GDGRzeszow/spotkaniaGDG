@@ -23,6 +23,9 @@
 		* "Intro to Image Classification with TensorFlow" - Sashko Zakharchuk
 	* GDG Rzeszów #10 - Machine Learning 2
 		* "Basics of Information Theory" - Sashko Zakharchuk
+	* BeerTalks #2 
+		* "Kubernetes on Google Cloud" - Łukasz Byjoś
+		* "Sztuczki i kruczki w arkuszach kalkulacyjnych Google" Jakub Nietrzeba
 * Planet Scrum - Beata Sternik & Aleksander Dębski 
   * #1 - "Dlaczego Scrum?" 
   * #2 - "Co to są Artefakty i po co nam Definition of Done?" 
