@@ -26,6 +26,9 @@
 	* BeerTalks #2 
 		* "Kubernetes on Google Cloud" - Łukasz Byjoś
 		* "Sztuczki i kruczki w arkuszach kalkulacyjnych Google" Jakub Nietrzeba
+	* GDG Rzeszów - Machine Learning 3
+		* "Welcome to MOOC era" - Kamil Krzyk
+        * "Machine Learning ku uciechom" - Jakub Szczęsny
 * Planet Scrum - Beata Sternik & Aleksander Dębski 
   * #1 - "Dlaczego Scrum?" 
   * #2 - "Co to są Artefakty i po co nam Definition of Done?" 
