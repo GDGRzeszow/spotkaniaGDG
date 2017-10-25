@@ -29,6 +29,9 @@
 	* GDG Rzeszów - Machine Learning 3
 		* "Welcome to MOOC era" - Kamil Krzyk
         * "Machine Learning ku uciechom" - Jakub Szczęsny
+	* GDG Rzeszów - Blockchain
+		* "Blockchain - eksperyment czy technologia przyszłości?" - Rafał Bodziony
+        * "Ethereum Smart Contracts. Nowe doświadczenie dla developera?" - Piotr Pawlak
 * Planet Scrum - Beata Sternik & Aleksander Dębski 
   * #1 - "Dlaczego Scrum?" 
   * #2 - "Co to są Artefakty i po co nam Definition of Done?" 
