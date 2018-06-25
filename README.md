@@ -32,6 +32,9 @@
 	* GDG Rzeszów - Blockchain
 		* "Blockchain - eksperyment czy technologia przyszłości?" - Rafał Bodziony
         * "Ethereum Smart Contracts. Nowe doświadczenie dla developera?" - Piotr Pawlak
+	* SecureIT
+		* Marek Majkowski - DDoS attacks landscape - również online https://speakerdeck.com/majek04/ddos-landscape
+		* Gynvael Coldwind - Szybkie wprowadzenie do bezpieczeństwa aplikacji
 * Planet Scrum - Beata Sternik & Aleksander Dębski 
   * #1 - "Dlaczego Scrum?" 
   * #2 - "Co to są Artefakty i po co nam Definition of Done?" 
@@ -41,6 +44,7 @@
   * #6 - "Jak planować prace w Scrumie?"
   * #7 - "Spring review i daily scrum - po co i dla kogo"
   * #8 - "Spring retrospective"
+
   
 * WTM
 	* HR w IT
